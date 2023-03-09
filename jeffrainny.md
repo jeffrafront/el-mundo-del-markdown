@@ -22,3 +22,7 @@ En la clase 1 del Bootcamp aprendimos lo que es **Markdown & Terminal** y aqui a
 |-----------|-----------|
 |st	|status|
 |co	|chekout|
+
+## 2 Clase
+
+Estamos aprendiendo *Git* desde la terminal.
